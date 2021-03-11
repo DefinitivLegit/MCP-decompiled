@@ -1,0 +1,5 @@
+17:26:21 - Java JDK is not installed ! Please install java JDK from http://java.oracle.com
+17:31:29 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+17:37:03 - !! Missing server jar file. Aborting !!
+19:04:46 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+19:09:38 - !! Missing server jar file. Aborting !!
